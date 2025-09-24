@@ -1,0 +1,4 @@
+.DS_Store
+.gitignore
+./TD_Embeddings/TP_Correction.ipynb
+./TD_LLM/TD_Correction.ipynb
